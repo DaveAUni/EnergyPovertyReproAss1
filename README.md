@@ -12,7 +12,7 @@ The table chosen is as the report Section 3 - Results, Table 2, "Model Performan
 The code is as the file https://github.com/DaveAUni/EnergyPovertyReproAss1/blob/main/GitEnergyPovertyUpload.ipynb
 
 This can be recreated in Google Colab as the link  https://colab.research.google.com/github/DaveAUni/EnergyPovertyReproAss1/blob/main/GitEnergyPovertyUpload.ipynb
-Or by searching Google Colab for 
+Or by searching Google Colab for:  https://github.com/DaveAUni/EnergyPovertyReproAss1/blob/main/GitEnergyPovertyUpload.ipynb
 
 The original Jupyter Notebook version is also included as file
 JupyterNotebookCreatedEnergyPovertyUpload.ipynb
