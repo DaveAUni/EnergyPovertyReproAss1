@@ -4,7 +4,7 @@ The research explores how machine learning models can leverage adminisative and 
 Assignement 1 - Dave Austin
 
 The reproduction is copied using https://github.com/linzzuk/Energy_Poverty_Prediction_paper_EHS_data
-That repository contains the code and data for the paper "Machine Learning with Administrative Data for Energy Poverty Identification in the UK". (paper link: https://www.mdpi.com/1996-1073/18/12/3054)
+That repository contains the code and data for the paper: https://www.mdpi.com/1996-1073/18/12/3054)
 The replication code is extracted from: ep_prediction_model.ipynb, and the data from:clean_data.csv
 
 AS THE ASSIGNMENT DETAILS - THE REPLICATION REQUIRED IS FOR ONE TABLE
@@ -26,7 +26,7 @@ Random forest with balanced class weights	0.7782832433636593	0.7830557036486059
 XGBoost with undersampling	0.7797961659791313	0.7803905185994039
 XGBoost with scale_pos_weight	0.8286054236398137	0.783107035526954
 
-
+Other Outputs: are for information only
 
 
 
