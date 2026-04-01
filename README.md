@@ -13,3 +13,6 @@ The code is as the file https://github.com/DaveAUni/EnergyPovertyReproAss1/blob/
 
 This can be recreated in Google Colab as the link  https://colab.research.google.com/github/DaveAUni/EnergyPovertyReproAss1/blob/main/GitEnergyPovertyUpload.ipynb
 Or by searching Google Colab for 
+
+The original Jupyter Notebook version is also included as file
+JupyterNotebookCreatedEnergyPovertyUpload.ipynb
